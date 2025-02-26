@@ -1,0 +1,14 @@
+DE_LoRa.h	KEYWORD1
+DE_LoRa	KEYWORD1
+LoRa	KEYWORD1
+lora	KEYWORD1
+
+read	KEYWORD2
+print	KEYWORD2
+available	KEYWORD2
+error	KEYWORD2
+resetErr	KEYWORD2
+index	KEYWORD2
+number	KEYWORD2
+readCommand	KEYWORD2
+sendCommand	KEYWORD2
