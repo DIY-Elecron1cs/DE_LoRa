@@ -4,7 +4,7 @@
 
 #define MODE 1  //0 - отправка, 1 - получение
 
-LoRa lora(2, 3);    //создаём объект класса LoRa
+DE_LoRa lora(2, 3);    //создаём объект класса LoRa
 
 void setup() {
   Serial.begin(9600);
